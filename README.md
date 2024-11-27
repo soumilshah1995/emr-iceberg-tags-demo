@@ -234,5 +234,9 @@ aws s3api put-bucket-lifecycle-configuration --bucket XXX --lifecycle-configurat
 
 ```
 
+<img width="1143" alt="image" src="https://github.com/user-attachments/assets/534293c1-fe3e-4c4d-9d78-92ddd906b331">
+
+<img width="784" alt="image" src="https://github.com/user-attachments/assets/9dbcf247-a20e-41d1-b0c5-58cea38cc452">
+
 
 ### happy learning 
